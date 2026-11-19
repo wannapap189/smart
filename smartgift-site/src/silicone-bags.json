@@ -1,0 +1,170 @@
+[
+  {
+    "id": "901017",
+    "model": "ZH-7191",
+    "title": "กระเป๋าซิลิโคนใส่มือถือ ฝาพับแม่เหล็ก",
+    "use": "เหมาะกับร้านค้าปลีกที่ต้องการกระเป๋าห้อยมือถือ เลือกสีตัวกระเป๋าและจัดตำแหน่งชาร์มให้เห็นเมื่อปิดฝา",
+    "group": "character",
+    "size": "180 × 117 × 34.3 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7191-1.webp",
+      "/assets/local-products/silicone/zh-7191-2.webp"
+    ]
+  },
+  {
+    "id": "901019",
+    "model": "ZH-7192",
+    "title": "กระเป๋าเหรียญซิลิโคนทรงกลมติดชาร์ม",
+    "use": "ใส่เหรียญหรือหูฟัง ใช้เป็นของสะสมชิ้นเล็กสำหรับแคมเปญแลกซื้อ",
+    "group": "character",
+    "size": "98.7 × 90 × 34 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7192-1.webp",
+      "/assets/local-products/silicone/zh-7192-2.webp"
+    ]
+  },
+  {
+    "id": "901020",
+    "model": "ZH-7202",
+    "title": "กระเป๋าซิลิโคนทรงยาวสำหรับปากกาและแปรงแต่งหน้า",
+    "use": "ด้านหน้าทรงยาวมีพื้นที่เรียงชาร์มเป็นชื่อหรือเรื่องราวของคอลเลกชัน",
+    "group": "character",
+    "size": "210 × 66 × 48 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7202-1.webp",
+      "/assets/local-products/silicone/zh-7202-2.webp"
+    ]
+  },
+  {
+    "id": "901021",
+    "model": "ZH-7457",
+    "title": "กระเป๋าสะพายซิลิโคนทรงเหลี่ยมติดตัวการ์ตูน",
+    "use": "ออกแบบชาร์มมาสคอตและสลับตำแหน่งด้านหน้าให้แต่ละสาขาหรือแต่ละซีซันมีแบบของตัวเอง",
+    "group": "character",
+    "size": "201 × 180 × 60 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7457-1.webp",
+      "/assets/local-products/silicone/zh-7457-2.webp"
+    ]
+  },
+  {
+    "id": "901023",
+    "model": "ZH-7541",
+    "title": "กระเป๋าซิลิโคนสะพายข้างทรงกลม",
+    "use": "ลองจัดสัญลักษณ์แบรนด์ตรงกลางหน้ากระเป๋า และเทียบความยาวสายกับผู้ใช้จริง",
+    "group": "character",
+    "size": "170 × 170 × 50 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7541-1.webp",
+      "/assets/local-products/silicone/zh-7541-2.webp"
+    ]
+  },
+  {
+    "id": "901024",
+    "model": "ZH-7324",
+    "title": "เป้ซิลิโคนใบเล็กแต่งมาสคอต",
+    "use": "ใช้เสนอคอลเลกชันครอบครัว เลือกสีเป้และชุดชาร์มให้เข้าคู่กับตัวละครหลัก",
+    "group": "character",
+    "size": "195 × 99.5 × 205 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7324-1.webp",
+      "/assets/local-products/silicone/zh-7324-2.webp"
+    ]
+  },
+  {
+    "id": "901018",
+    "model": "ZH-7188",
+    "title": "กระเป๋าซิลิโคนคล้องมือแบบเจาะรูติดชาร์ม",
+    "use": "รูปทรงแบนพกติดข้อมือได้ ลองเลือกสีสายและสีชาร์มจากจานสีของแบรนด์",
+    "group": "character",
+    "size": "198.5 × 110 × 40 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7188-1.webp",
+      "/assets/local-products/silicone/zh-7188-2.webp"
+    ]
+  },
+  {
+    "id": "901026",
+    "model": "ZH-5991",
+    "title": "กระเป๋าซิลิโคนคาดอกทรงยาว",
+    "use": "เหมาะกับทีมกิจกรรมและของจำหน่ายในงานอีเวนต์ ขอเทียบตำแหน่งโลโก้ขณะสะพายจริง",
+    "group": "carry",
+    "size": "27.2 × 16.4 × 6.5 ซม.",
+    "images": [
+      "/assets/local-products/silicone/zh-5991-1.webp",
+      "/assets/local-products/silicone/zh-5991-2.webp"
+    ]
+  },
+  {
+    "id": "901029",
+    "model": "ZH-6769",
+    "title": "กระเป๋าซิลิโคนคาดเอว",
+    "use": "ใช้จัดของจำเป็นระหว่างเดินทางหรือทำกิจกรรมกลางแจ้ง เลือกสีตัวกระเป๋าคู่กับสายคาด",
+    "group": "carry",
+    "size": "350 × 115 × 60 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-6769-1.webp",
+      "/assets/local-products/silicone/zh-6769-2.webp"
+    ]
+  },
+  {
+    "id": "901032",
+    "model": "ZH-6814",
+    "title": "กระเป๋าซิลิโคนสะพายไหล่ใบใหญ่",
+    "use": "เหมาะกับกระเป๋าสำหรับจำหน่ายในแบรนด์ตัวเอง ลองใส่ของและเทียบสัดส่วนกับผู้สะพายก่อนยืนยันแบบ",
+    "group": "carry",
+    "size": "380 × 260 × 125 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-6814-1.webp",
+      "/assets/local-products/silicone/zh-6814-2.webp"
+    ]
+  },
+  {
+    "id": "901035",
+    "model": "ZH-6815",
+    "title": "ถุงซิลิโคนทรงกระบอกแยกของเปียกและแห้ง",
+    "use": "เหมาะกับคอลเลกชันฟิตเนสหรือท่องเที่ยว ขอเทียบการแบ่งช่องและวิธีปิดปากถุงจากตัวอย่างจริง",
+    "group": "organizer",
+    "size": "280 × 160 × 60 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-6815-1.webp",
+      "/assets/local-products/silicone/zh-6815-2.webp"
+    ]
+  },
+  {
+    "id": "901037",
+    "model": "ZH-6937",
+    "title": "กระเป๋าซิลิโคนใส่กุญแจแบบซิป",
+    "use": "เลือกสีตามกลุ่มผู้รับ ใช้จัดกุญแจหรือของชิ้นเล็กในกระเป๋าใบใหญ่",
+    "group": "organizer",
+    "size": "130 × 90 × 28 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-6937-1.webp",
+      "/assets/local-products/silicone/zh-6937-2.webp"
+    ]
+  },
+  {
+    "id": "901039",
+    "model": "ZH-7127",
+    "title": "กระเป๋าซิลิโคนใส่เครื่องสำอาง",
+    "use": "เปิดให้เห็นของด้านในชัด เหมาะจัดคู่ผลิตภัณฑ์ขนาดทดลองสำหรับแคมเปญเครื่องสำอาง",
+    "group": "organizer",
+    "size": "209 × 138 × 84 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7127-1.webp",
+      "/assets/local-products/silicone/zh-7127-2.webp"
+    ]
+  },
+  {
+    "id": "901041",
+    "model": "ZH-7542",
+    "title": "ถุงซิลิโคนหูรูดใส่ของจุกจิก",
+    "use": "สีของถุงและเชือกหูรูดช่วยทำให้ชุดสินค้าดูเป็นคอลเลกชันเดียวกัน",
+    "group": "organizer",
+    "size": "200 × 150 × 20 มม.",
+    "images": [
+      "/assets/local-products/silicone/zh-7542-1.webp",
+      "/assets/local-products/silicone/zh-7542-2.webp"
+    ]
+  }
+]

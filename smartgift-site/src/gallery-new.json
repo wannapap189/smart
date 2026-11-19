@@ -1,0 +1,66 @@
+[
+  {
+    "id": "scg-umbrella",
+    "sku": "GU-12919",
+    "brand": "SCG",
+    "title": "ร่มกอล์ฟ พิมพ์โลโก้",
+    "image": "/assets/industry-mockups/scg-umbrella-v1.png",
+    "url": "/smartgift/products/gu-12919"
+  },
+  {
+    "id": "honda-backpack",
+    "sku": "GU-13213",
+    "brand": "HONDA",
+    "title": "กระเป๋าเป้กีฬา 32 ลิตร",
+    "image": "/assets/industry-mockups/honda-backpack-v1.png",
+    "url": "/smartgift/products/gu-13213"
+  },
+  {
+    "id": "true-speaker",
+    "sku": "GU-12115",
+    "brand": "TRUE",
+    "title": "ลำโพงพกพาพร้อมแผงโซลาร์",
+    "image": "/assets/industry-mockups/true-speaker-v1.png",
+    "url": "/smartgift/products/gu-12115"
+  },
+  {
+    "id": "krungthai-notebook",
+    "sku": "GU-13039",
+    "brand": "KRUNGTHAI",
+    "title": "สมุด NFC พร้อมงานพิมพ์ปกเฉพาะ",
+    "image": "/assets/industry-mockups/krungthai-notebook-v1.png",
+    "url": "/smartgift/products/gu-13039"
+  },
+  {
+    "id": "ptt-plantpen",
+    "sku": "GU-13138",
+    "brand": "PTT",
+    "title": "ปากกาพร้อมเมล็ดพันธุ์",
+    "image": "/assets/industry-mockups/ptt-plantpen-v1.png",
+    "url": "/smartgift/products/gu-13138"
+  },
+  {
+    "id": "nestle-cup",
+    "sku": "SG-900009",
+    "brand": "NESTLÉ",
+    "title": "แก้วทรงเตี้ย 300 มล.",
+    "image": "/assets/industry-mockups/nestle-cup-v1.png",
+    "url": "/smartgift/products/sg-900009"
+  },
+  {
+    "id": "phyathai-giftset",
+    "sku": "TJS46-5",
+    "brand": "PHYATHAI",
+    "title": "ชุดของขวัญแก้ว เครื่องนวดคอ และเครื่องเขียน",
+    "image": "/assets/industry-mockups/phyathai-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tjs46-5"
+  },
+  {
+    "id": "lenovo-giftset",
+    "sku": "TZS01-5",
+    "brand": "LENOVO",
+    "title": "ชุดของขวัญทำงานและเดินทาง",
+    "image": "/assets/industry-mockups/lenovo-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tzs01-5"
+  }
+]

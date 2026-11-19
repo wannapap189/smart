@@ -1,0 +1,107 @@
+[
+  {
+    "productId": "903001",
+    "id": "clasp-notebook",
+    "name": "สมุดโน้ตปกสีน้ำเงินอมเขียวพร้อมสายคาด",
+    "description": "ปกมีสายคาดและตัวล็อกสีเงิน ขนาด 146 × 213 มม.",
+    "image": "/assets/giftset-components/clasp-notebook.webp"
+  },
+  {
+    "productId": "903002",
+    "id": "pocket-organizer-notebook",
+    "name": "สมุดจัดระเบียบพร้อมช่องเสียบหน้าปก",
+    "description": "ปกสีน้ำตาลมีช่องเสียบด้านหน้าและแถบปิดด้านข้าง ขนาด 150 × 220 มม. ใช้เก็บนามบัตรหรือกระดาษโน้ตไว้คู่กับสมุด",
+    "image": "/assets/giftset-components/pocket-organizer-notebook.webp"
+  },
+  {
+    "productId": "903003",
+    "id": "slim-elastic-journal",
+    "name": "สมุดพกทรงยาวพร้อมยางรัด",
+    "description": "สมุดขนาด 98 × 178 มม. หน้าปกเรียบสีส้ม มียางรัดแนวตั้งช่วยปิดเล่ม เหมาะกับการจดระหว่างเดินทาง",
+    "image": "/assets/giftset-components/slim-elastic-journal.webp"
+  },
+  {
+    "productId": "903004",
+    "id": "woven-snap-pocket-journal",
+    "name": "สมุดปกผ้าทอพร้อมกระดุมกด",
+    "description": "สมุดทรงกะทัดรัดขนาด 125 × 150 มม. ปกผ้าทอหลายสีปิดด้วยสายกระดุม เหมาะเป็นสมุดจดพกในกระเป๋า",
+    "image": "/assets/giftset-components/woven-snap-pocket-journal.webp"
+  },
+  {
+    "productId": "903005",
+    "id": "cord-wrap-journal",
+    "name": "สมุดบันทึกปกสีครีมพร้อมเชือกพัน",
+    "description": "สมุดทรงยาวขนาด 115 × 200 มม. ใช้เชือกพันรอบปกและแต่งจี้ทรงกลม เหมาะจัดคู่กับปากกาเป็นชุดบันทึกประจำวัน",
+    "image": "/assets/giftset-components/cord-wrap-journal.webp"
+  },
+  {
+    "productId": "903006",
+    "id": "envelope-cover-notebook",
+    "name": "สมุดปกพับทรงซอง",
+    "description": "ขอบปกตัดเฉียงมาบรรจบกับสายคาดแนวนอน ขนาด 158 × 212 มม. ด้านหน้ามีแผ่นสี่เหลี่ยมสีเงินเป็นจุดเด่น",
+    "image": "/assets/notebooks/envelope-cover-notebook.webp"
+  },
+  {
+    "productId": "903007",
+    "id": "elastic-panel-notebook",
+    "name": "สมุดปกเทาแต่งแถบยางคู่",
+    "description": "ปกสีเทาอ่อนขนาด 150 × 220 มม. กลางปกมีแผ่นสี่เหลี่ยมประกบด้วยแถบยางสีเข้มทั้งสองด้าน",
+    "image": "/assets/notebooks/elastic-panel-notebook.webp"
+  },
+  {
+    "productId": "903008",
+    "id": "metal-plaque-notebook",
+    "name": "สมุดปกเรียบแต่งป้ายโลหะ",
+    "description": "สมุดขนาด 148 × 215 มม. ติดป้ายโลหะชิ้นเล็กที่มุมล่างขวา พื้นปกสีอ่อนเหมาะกับการวางตราองค์กรแบบเรียบง่าย",
+    "image": "/assets/notebooks/metal-plaque-notebook.webp"
+  },
+  {
+    "productId": "903009",
+    "id": "double-door-journal",
+    "name": "สมุดปกคู่ลายบานประตู",
+    "description": "ปกสีแดงตกแต่งลายทองแบบประตูสองบาน ขนาด 140 × 212 มม. เหมาะเป็นของขวัญเปิดกิจการหรือของที่ระลึกเทศกาลตรุษจีน",
+    "image": "/assets/notebooks/double-door-journal.webp"
+  },
+  {
+    "productId": "903010",
+    "id": "digital-camo-notebook",
+    "name": "สมุดปกลายพรางดิจิทัล",
+    "description": "ลายพรางโทนเขียวพิมพ์เต็มปกและต่อเนื่องไปบนแถบปิด ขนาด 150 × 220 มม. เหมาะกับกิจกรรมกลางแจ้งและค่ายเยาวชน",
+    "image": "/assets/notebooks/digital-camo-notebook.webp"
+  },
+  {
+    "productId": "903011",
+    "id": "winter-reindeer-notebook",
+    "name": "สมุดคริสต์มาสลายกวางและเกล็ดหิมะ",
+    "description": "สมุดขนาด 147 × 213 มม. ปกสีแดงพิมพ์เงากวางและต้นสนสีขาวช่วงฐานเล่ม เหมาะกับชุดของขวัญปลายปี",
+    "image": "/assets/notebooks/winter-reindeer-notebook.webp"
+  },
+  {
+    "productId": "903012",
+    "id": "wood-pattern-a5-notebook",
+    "name": "สมุดปกลายผิวไม้พร้อมยางคาด",
+    "description": "ปกสีน้ำตาลลายผิวไม้ใช้ยางรัดแนวตั้งสีเข้าชุด เล่มกว้าง 148 มม. สูง 210 มม. เหมาะกับชุดเครื่องเขียนโทนธรรมชาติ",
+    "image": "/assets/notebooks/wood-pattern-a5-notebook.webp"
+  },
+  {
+    "productId": "903013",
+    "id": "panda-bamboo-pocket-journal",
+    "name": "สมุดพกลายแพนด้ากับกอไผ่",
+    "description": "ปกทรงแคบขนาด 98 × 178 มม. พิมพ์ภาพแพนด้าและกอไผ่บนพื้นสีอ่อน เหมาะทำเป็นสมุดพกสำหรับร้านของที่ระลึก",
+    "image": "/assets/notebooks/panda-bamboo-pocket-journal.webp"
+  },
+  {
+    "productId": "903014",
+    "id": "large-check-organizer-notebook",
+    "name": "สมุดจัดเก็บปกลายตารางเล่มใหญ่",
+    "description": "สมุดจัดเก็บขนาด 237 × 320 มม. ปกลายตารางสองโทน มีแถบกระดุมปิดด้านข้าง เหมาะสำหรับงานที่ต้องการเล่มใหญ่กว่าสมุดจดทั่วไป",
+    "image": "/assets/notebooks/large-check-organizer-notebook.webp"
+  },
+  {
+    "productId": "903015",
+    "id": "gilt-pavilion-notebook",
+    "name": "สมุดปกเขียวลายศาลาประทับฟอยล์ทอง",
+    "description": "ปกสีเขียวขนาด 148 × 220 มม. ประทับลายศาลา ทิวไม้และผืนน้ำด้วยฟอยล์ทอง มีสายปิดแต่งชิ้นโลหะทรงกลม",
+    "image": "/assets/notebooks/gilt-pavilion-notebook.webp"
+  }
+]

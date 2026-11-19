@@ -1,0 +1,13 @@
+.media-cache/
+node_modules/
+__pycache__/
+*.pyc
+smartgift-site/dist/assets/**
+!smartgift-site/dist/assets/**/
+!smartgift-site/dist/assets/**/*.svg
+!smartgift-site/dist/assets/*.svg
+smartgift-site/dist/downloads/**
+!smartgift-site/dist/downloads/*.csv
+catalog-import/product-image-cache/
+catalog-import/retired-owned-giftsets.json
+

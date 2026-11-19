@@ -1,0 +1,116 @@
+[
+  {
+    "id": "lenovo-office-giftset",
+    "sku": "TMZ7513",
+    "brand": "LENOVO",
+    "title": "ชุดสมุด A5 หูฟัง และปากกา",
+    "image": "/assets/industry-mockups/lenovo-office-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tmz7513",
+    "groups": [
+      "companies",
+      "technology",
+      "banks",
+      "universities"
+    ]
+  },
+  {
+    "id": "phyathai-wellness-giftset",
+    "sku": "TZX02-3",
+    "brand": "PHYATHAI",
+    "title": "ชุดแก้วมัค เครื่องนวดคอ และร่ม",
+    "image": "/assets/industry-mockups/phyathai-wellness-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tzx02-3",
+    "groups": [
+      "companies",
+      "hospitals",
+      "beauty",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "kmutt-stationery-giftset",
+    "sku": "TJS39-3",
+    "brand": "KMUTT",
+    "title": "ชุดเครื่องเขียน กระดาษโน้ต ปากกา และเครื่องคิดเลข",
+    "image": "/assets/industry-mockups/kmutt-stationery-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tjs39-3",
+    "groups": [
+      "companies",
+      "universities",
+      "public",
+      "banks"
+    ]
+  },
+  {
+    "id": "loreal-beauty-giftset",
+    "sku": "TJB0463",
+    "brand": "L’ORÉAL",
+    "title": "ชุดแก้วคนเครื่องดื่ม ไดร์เป่าผม และร่ม",
+    "image": "/assets/industry-mockups/loreal-beauty-giftset-v2.png",
+    "url": "/smartgift/premium-giftset/set/tjb0463",
+    "groups": [
+      "companies",
+      "beauty",
+      "hospitals",
+      "retail",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "kasikorn-notebook-umbrella",
+    "sku": "TFX01-3",
+    "brand": "KASIKORNBANK",
+    "title": "ชุดสมุด A5 ปากกา และร่มพกพา",
+    "image": "/assets/industry-mockups/kasikorn-notebook-umbrella-v1.png",
+    "url": "/smartgift/premium-giftset/set/tfx01-3",
+    "groups": [
+      "companies",
+      "banks",
+      "public",
+      "universities"
+    ]
+  },
+  {
+    "id": "honda-car-giftset",
+    "sku": "TMZ7313",
+    "brand": "HONDA",
+    "title": "ชุดแก้วชา ป้ายเบอร์จอดรถ และน้ำหอม",
+    "image": "/assets/industry-mockups/honda-car-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tmz7313",
+    "groups": [
+      "companies",
+      "automotive",
+      "logistics",
+      "property"
+    ]
+  },
+  {
+    "id": "ptt-fan-umbrella-giftset",
+    "sku": "TCP00-2",
+    "brand": "PTT",
+    "title": "ชุดพัดลมพกพาและร่ม พร้อมกล่องหูหิ้ว",
+    "image": "/assets/industry-mockups/ptt-fan-umbrella-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tcp00-2",
+    "groups": [
+      "companies",
+      "energy",
+      "public",
+      "sports",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "nestle-drip-giftset",
+    "sku": "TBC4117",
+    "brand": "NESTLÉ",
+    "title": "ชุดกาแฟดริป 7 ชิ้น พร้อมกระเป๋าพกพา",
+    "image": "/assets/industry-mockups/nestle-drip-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/tbc4117",
+    "groups": [
+      "companies",
+      "food",
+      "hospitality",
+      "retail"
+    ]
+  }
+]

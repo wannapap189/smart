@@ -1,0 +1,338 @@
+[
+  {
+    "id": "ivory-five-fold-umbrella",
+    "name": "ร่มพับห้าตอนสีครีมไล่เฉด",
+    "description": "ผ้าร่มไล่เฉดขาวครีม มีแถบรัดรอบคัน ความยาวเมื่อพับ 17 ซม.",
+    "image": "/assets/giftset-components/ivory-five-fold-umbrella.webp",
+    "group": "travel"
+  },
+  {
+    "id": "blue-gradient-ceramic-cup",
+    "name": "แก้วกาแฟเซรามิกไล่สีพร้อมสายคล้อง",
+    "description": "ตัวแก้วไล่สีขาวฟ้า ฝามีปุ่มเปิดและสายผ้าด้านข้าง ขนาด 90 × 145 มม.",
+    "image": "/assets/giftset-components/blue-gradient-ceramic-cup.webp",
+    "group": "drink"
+  },
+  {
+    "id": "pocket-organizer-notebook",
+    "group": "desk",
+    "name": "สมุดจัดระเบียบพร้อมช่องเสียบหน้าปก",
+    "description": "ปกสีน้ำตาลมีช่องเสียบด้านหน้าและแถบปิดด้านข้าง ขนาด 150 × 220 มม. ใช้เก็บนามบัตรหรือกระดาษโน้ตไว้คู่กับสมุด",
+    "image": "/assets/giftset-components/pocket-organizer-notebook.webp"
+  },
+  {
+    "id": "grey-travel-backpack",
+    "name": "กระเป๋าเป้เดินทางสีเทา",
+    "image": "/assets/giftset-components/grey-travel-backpack.webp",
+    "description": "มีกระเป๋าซิปด้านหน้าและหูหิ้วด้านบน ขนาด 30 × 43 × 15 ซม.",
+    "group": "travel"
+  },
+  {
+    "id": "roll-up-desk-mat",
+    "name": "แผ่นรองโต๊ะแบบม้วนเก็บ",
+    "description": "แผ่นรองโต๊ะสีน้ำตาลพร้อมสายรัด ขนาดเมื่อกาง 60 × 29.8 ซม.",
+    "image": "/assets/giftset-components/roll-up-desk-mat.webp",
+    "group": "desk"
+  },
+  {
+    "id": "amber-sleeved-cup",
+    "name": "แก้วกาแฟสีชาแบบมีปลอกจับ",
+    "description": "แก้วทรงเตี้ยสีอำพัน มีปลอกสีน้ำตาลรอบตัวแก้ว สูง 113 มม.",
+    "image": "/assets/giftset-components/amber-sleeved-cup.webp",
+    "group": "drink"
+  },
+  {
+    "id": "wireless-desk-keyboard",
+    "name": "คีย์บอร์ดไร้สายโทนครีม",
+    "description": "ปุ่มสีอ่อนเรียงบนกรอบโทนทอง ขนาด 28.4 × 13.4 ซม.",
+    "image": "/assets/giftset-components/wireless-desk-keyboard.webp",
+    "group": "tech"
+  },
+  {
+    "id": "blue-sport-towel",
+    "name": "ผ้าขนหนูกีฬาสีน้ำเงิน",
+    "description": "ผ้าขนหนูสีน้ำเงินสลับขาว ม้วนเก็บสำหรับชุดกิจกรรมกลางแจ้ง",
+    "image": "/assets/giftset-components/blue-sport-towel.webp",
+    "group": "lifestyle"
+  },
+  {
+    "id": "tea-infuser-bottle",
+    "name": "กระบอกชาพร้อมที่กรอง",
+    "image": "/assets/giftset-components/tea-infuser-bottle.webp",
+    "description": "ขวดใสพร้อมสายคล้องและช่องกรองชา ขนาด 65 × 230 มม.",
+    "group": "drink"
+  },
+  {
+    "id": "woodgrain-click-pen",
+    "group": "desk",
+    "name": "ปากกาแบบกดลายไม้",
+    "description": "ปุ่มกดอยู่ด้านท้าย คลิปและปลายด้ามโทนสีอ่อนตัดกับพื้นผิวลายไม้ ขนาด 13 × 145 มม. เหมาะสำหรับใส่คู่กับสมุดปกเรียบ",
+    "image": "/assets/giftset-components/woodgrain-click-pen.webp"
+  },
+  {
+    "id": "black-document-briefcase",
+    "name": "กระเป๋าเอกสารทรงแบนสีดำ",
+    "description": "มีหูหิ้วคู่และช่องซิปด้านหน้า ขนาด 38 × 30 × 7 ซม.",
+    "image": "/assets/giftset-components/black-document-briefcase.webp",
+    "group": "travel"
+  },
+  {
+    "id": "folding-wireless-pad",
+    "name": "แท่นชาร์จไร้สายแบบพับ",
+    "description": "แท่นชาร์จสีดำทรงสี่เหลี่ยม มีวงแสดงตำแหน่งวางอุปกรณ์",
+    "image": "/assets/giftset-components/folding-wireless-pad.webp",
+    "group": "tech"
+  },
+  {
+    "id": "navy-koi-mug",
+    "name": "แก้วมัคสีน้ำเงินลายปลาคาร์ป",
+    "description": "แก้วหูจับทรงกว้าง มีลายปลาคาร์ปและคลื่นที่ช่วงฐาน ขนาดรวมด้าม 90 × 131 มม.",
+    "image": "/assets/giftset-components/navy-koi-mug.webp",
+    "group": "drink"
+  },
+  {
+    "id": "orange-desk-fan",
+    "name": "พัดลมพกพาพร้อมฐานตั้ง",
+    "image": "/assets/giftset-components/orange-desk-fan.webp",
+    "description": "พัดลมมือถือสีส้ม พร้อมฐานแยกสำหรับวางบนโต๊ะ",
+    "group": "lifestyle"
+  },
+  {
+    "id": "navy-folding-umbrella",
+    "name": "ร่มพับอัตโนมัติด้ามห่วง",
+    "image": "/assets/giftset-components/navy-folding-umbrella.webp",
+    "description": "ห่วงที่ปลายด้ามใช้คล้องกระเป๋าได้ ความยาวเมื่อพับ 38 ซม.",
+    "group": "travel"
+  },
+  {
+    "id": "ring-desk-light",
+    "name": "โคมไฟตั้งโต๊ะทรงวงแหวน",
+    "image": "/assets/giftset-components/ring-desk-light.webp",
+    "description": "โคมไฟสีขาวทรงเปิดด้านข้าง พร้อมจอแสดงเวลา",
+    "group": "desk"
+  },
+  {
+    "id": "slim-elastic-journal",
+    "group": "desk",
+    "name": "สมุดพกทรงยาวพร้อมยางรัด",
+    "description": "สมุดขนาด 98 × 178 มม. หน้าปกเรียบสีส้ม มียางรัดแนวตั้งช่วยปิดเล่ม เหมาะกับการจดระหว่างเดินทาง",
+    "image": "/assets/giftset-components/slim-elastic-journal.webp"
+  },
+  {
+    "id": "grey-handled-vacuum-flask",
+    "name": "กระบอกเก็บอุณหภูมิหูจับข้าง",
+    "description": "ตัวกระบอกสีเทาพร้อมฝาสีดำ มีหูจับยาวด้านข้าง ขนาดรวมด้าม 230 × 153 มม.",
+    "image": "/assets/giftset-components/grey-handled-vacuum-flask.webp",
+    "group": "drink"
+  },
+  {
+    "id": "black-ten-rib-umbrella",
+    "name": "ร่มพับอัตโนมัติ 10 ก้าน",
+    "description": "ผ้าร่มสีดำสลับแถบเทา ด้ามจับใส ความยาวเมื่อพับ 32 ซม.",
+    "image": "/assets/giftset-components/black-ten-rib-umbrella.webp",
+    "group": "travel"
+  },
+  {
+    "id": "digital-earbuds",
+    "name": "หูฟังพร้อมกล่องแสดงแบตเตอรี่",
+    "image": "/assets/giftset-components/digital-earbuds.webp",
+    "description": "กล่องเก็บหูฟังสีครีม มีจอแสดงระดับแบตเตอรี่ด้านหน้า",
+    "group": "tech"
+  },
+  {
+    "id": "red-angled-handle-mug",
+    "name": "แก้วมัคสีแดงด้ามจับเฉียง",
+    "description": "ตัวแก้วสีแดงผิวด้าน ด้ามจับเฉียงปลายสีเข้ม ขนาดรวมด้าม 102 × 145 มม.",
+    "image": "/assets/giftset-components/red-angled-handle-mug.webp",
+    "group": "drink"
+  },
+  {
+    "id": "portable-electric-toothbrush",
+    "name": "แปรงสีฟันไฟฟ้าพร้อมหัวแปรงสำรอง",
+    "description": "ด้ามแปรงสีดำพร้อมหัวแปรงสำรองในกล่องแยกสำหรับพกพา",
+    "image": "/assets/giftset-components/portable-electric-toothbrush.webp",
+    "group": "travel"
+  },
+  {
+    "id": "clasp-notebook",
+    "name": "สมุดโน้ตปกสีน้ำเงินอมเขียวพร้อมสายคาด",
+    "image": "/assets/giftset-components/clasp-notebook.webp",
+    "description": "ปกมีสายคาดและตัวล็อกสีเงิน ขนาด 146 × 213 มม.",
+    "group": "desk"
+  },
+  {
+    "id": "blue-temperature-thermos",
+    "name": "กระบอกเก็บอุณหภูมิฝาแสดงตัวเลข",
+    "description": "กระบอกสเตนเลส 304 สีน้ำเงิน มีตัวเลขบนฝา ขนาด 65 × 225 มม.",
+    "image": "/assets/giftset-components/blue-temperature-thermos.webp",
+    "group": "drink"
+  },
+  {
+    "id": "navy-dome-pocket-umbrella",
+    "name": "ร่มพกพาทรงแคปซูลสีน้ำเงิน",
+    "description": "หัวทรงมน ผ้าร่มน้ำเงินสลับดำ พร้อมแถบรัด ความยาวเมื่อพับ 17.4 ซม.",
+    "image": "/assets/giftset-components/navy-dome-pocket-umbrella.webp",
+    "group": "travel"
+  },
+  {
+    "id": "white-navy-tumbler",
+    "name": "แก้วทัมเบลอร์ฝาสีน้ำเงิน",
+    "image": "/assets/giftset-components/white-navy-tumbler.webp",
+    "description": "แก้วสเตนเลส 316 ความจุ 420 มล. ขนาด 88 × 130 มม.",
+    "group": "drink"
+  },
+  {
+    "id": "blue-gold-pen",
+    "name": "ปากกาสีฟ้าคลิปทอง",
+    "image": "/assets/giftset-components/blue-gold-pen.webp",
+    "description": "ตัวด้ามสีฟ้าอ่อนตัดขอบสีทอง ขนาด 10 × 132 มม.",
+    "group": "desk"
+  },
+  {
+    "id": "tassel-bookmark",
+    "name": "ที่คั่นหนังสือพร้อมพู่",
+    "image": "/assets/giftset-components/tassel-bookmark.webp",
+    "description": "ที่คั่นทรงกลมลวดลายฉลุ พร้อมพู่สีฟ้า",
+    "group": "desk"
+  },
+  {
+    "id": "blue-card-case",
+    "name": "กล่องใส่นามบัตรสีน้ำเงิน",
+    "description": "ตัวกล่องทรงแบน ด้านหน้ามีแถบสีเงินสำหรับวางโลโก้",
+    "image": "/assets/giftset-components/blue-card-case.webp",
+    "group": "desk"
+  },
+  {
+    "id": "desktop-cleaning-brush",
+    "name": "แปรงทำความสะอาดแบบพกพา",
+    "description": "ตัวแปรงขนาดกะทัดรัด มีขนแปรงหลายขนาดในด้ามเดียว",
+    "image": "/assets/giftset-components/desktop-cleaning-brush.webp",
+    "group": "desk"
+  },
+  {
+    "id": "navy-coaster",
+    "name": "ที่รองแก้วสีน้ำเงินทรงรี",
+    "description": "พื้นรองแก้วทรงรีแต่งลายวงกลม สำหรับจัดคู่กับแก้วในชุด",
+    "image": "/assets/giftset-components/navy-coaster.webp",
+    "group": "drink"
+  },
+  {
+    "id": "gold-tea-strainer",
+    "name": "ที่กรองชาขอบทอง",
+    "description": "ถ้วยกรองสีขาวขอบทอง มีรูกรองที่ผนังด้านข้าง",
+    "image": "/assets/giftset-components/gold-tea-strainer.webp",
+    "group": "drink"
+  },
+  {
+    "id": "portable-eye-massager",
+    "name": "อุปกรณ์ดูแลรอบดวงตาแบบพกพา",
+    "description": "ตัวเครื่องสีขาวพร้อมสายรัด สำหรับชุดของขวัญแนวพักผ่อน",
+    "image": "/assets/giftset-components/portable-eye-massager.webp",
+    "group": "lifestyle"
+  },
+  {
+    "id": "blue-neck-massager",
+    "name": "เครื่องนวดคอทรงโค้ง",
+    "description": "ตัวเครื่องสีน้ำเงินออกแบบให้คล้องรอบคอ ขนาด 14 × 15 ซม.",
+    "image": "/assets/giftset-components/blue-neck-massager.webp",
+    "group": "lifestyle"
+  },
+  {
+    "id": "black-massage-gun",
+    "name": "เครื่องนวดกล้ามเนื้อแบบมือถือ",
+    "description": "ด้ามจับสีดำตัดขอบสีทอง ตัวเครื่องขนาด 14.3 × 13.4 ซม.",
+    "image": "/assets/giftset-components/black-massage-gun.webp",
+    "group": "lifestyle"
+  },
+  {
+    "id": "white-travel-hair-dryer",
+    "name": "ไดร์เป่าผมสีขาว",
+    "description": "ตัวเครื่องและด้ามจับสีขาว เหมาะสำหรับชุดของใช้ส่วนตัว",
+    "image": "/assets/giftset-components/white-travel-hair-dryer.webp",
+    "group": "travel"
+  },
+  {
+    "id": "orange-pocket-shaver",
+    "name": "เครื่องโกนหนวดพกพาสีส้ม",
+    "description": "เครื่องโกนหนวดทรงสี่เหลี่ยมขนาดกะทัดรัด 4.2 × 4.2 ซม.",
+    "image": "/assets/giftset-components/orange-pocket-shaver.webp",
+    "group": "travel"
+  },
+  {
+    "id": "silver-parking-number",
+    "name": "ป้ายแสดงเบอร์โทรสำหรับจอดรถ",
+    "description": "ป้ายสีเงินพร้อมช่องตัวเลข สำหรับวางในรถเมื่อจอดซ้อนคัน",
+    "image": "/assets/giftset-components/silver-parking-number.webp",
+    "group": "travel"
+  },
+  {
+    "id": "car-phone-holder",
+    "name": "ที่วางโทรศัพท์ในรถแบบโชว์ชิ้นส่วน",
+    "description": "ตัวจับโทรศัพท์มีแขนประคองด้านข้างและแผงหน้าที่มองเห็นชิ้นส่วนด้านใน",
+    "image": "/assets/giftset-components/car-phone-holder.webp",
+    "group": "travel"
+  },
+  {
+    "id": "aqua-sport-bottle",
+    "name": "กระบอกน้ำสปอร์ตฝาปุ่มกด",
+    "description": "ตัวขวดสีฟ้า ฝาใสมีปุ่มเปิดด้านหน้า ขนาด 65 × 230 มม.",
+    "image": "/assets/giftset-components/aqua-sport-bottle.webp",
+    "group": "drink"
+  },
+  {
+    "id": "silver-cap-glass-flask",
+    "name": "กระบอกแก้วใสฝาสีเงิน",
+    "description": "ตัวขวดใสทรงตรง เห็นเครื่องดื่มด้านใน ขนาด 65 × 229 มม.",
+    "image": "/assets/giftset-components/silver-cap-glass-flask.webp",
+    "group": "drink"
+  },
+  {
+    "id": "rose-oval-coffee-cup",
+    "name": "แก้วกาแฟทรงรีสีโรสโกลด์",
+    "description": "ตัวแก้วทรงโค้ง ฝาด้านบนสีเงิน ขนาด 78 × 142 มม.",
+    "image": "/assets/giftset-components/rose-oval-coffee-cup.webp",
+    "group": "drink"
+  },
+  {
+    "id": "white-medallion-mug",
+    "name": "แก้วมัคสีขาวแต่งตรากลม",
+    "description": "ตัวแก้วมีลายริ้วแนวตั้ง แต่งตราสีทองและฐานสีเข้ม",
+    "image": "/assets/giftset-components/white-medallion-mug.webp",
+    "group": "drink"
+  },
+  {
+    "id": "orange-woodgrain-flask",
+    "name": "กระบอกน้ำทรงกระบอกฝาลายไม้",
+    "description": "ตัวกระบอกสีส้ม ตัดกับฝาลายไม้ด้านบน ขนาด 156 × 64 มม.",
+    "image": "/assets/giftset-components/orange-woodgrain-flask.webp",
+    "group": "drink"
+  },
+  {
+    "id": "cream-stirring-mug",
+    "name": "แก้วกาแฟคนเครื่องดื่มพร้อมหูจับ",
+    "description": "แก้วสีครีมพร้อมฝาและหูจับสีน้ำตาลเข้ม ขนาด 120 × 140 มม.",
+    "image": "/assets/giftset-components/cream-stirring-mug.webp",
+    "group": "drink"
+  },
+  {
+    "id": "woven-snap-pocket-journal",
+    "group": "desk",
+    "name": "สมุดปกผ้าทอพร้อมกระดุมกด",
+    "description": "สมุดทรงกะทัดรัดขนาด 125 × 150 มม. ปกผ้าทอหลายสีปิดด้วยสายกระดุม เหมาะเป็นสมุดจดพกในกระเป๋า",
+    "image": "/assets/giftset-components/woven-snap-pocket-journal.webp"
+  },
+  {
+    "id": "cord-wrap-journal",
+    "group": "desk",
+    "name": "สมุดบันทึกปกสีครีมพร้อมเชือกพัน",
+    "description": "สมุดทรงยาวขนาด 115 × 200 มม. ใช้เชือกพันรอบปกและแต่งจี้ทรงกลม เหมาะจัดคู่กับปากกาเป็นชุดบันทึกประจำวัน",
+    "image": "/assets/giftset-components/cord-wrap-journal.webp"
+  },
+  {
+    "id": "fountain-cap-pen",
+    "group": "desk",
+    "name": "ปากกาหมึกซึมสีน้ำเงินพร้อมปลอก",
+    "description": "รุ่นหมึกซึมมีปลอกและคลิปทรงตัวยูสำหรับเสียบสมุด ด้ามยาว 139 มม. เหมาะกับชุดเครื่องเขียนสำหรับเซ็นเอกสาร",
+    "image": "/assets/giftset-components/fountain-cap-pen.webp"
+  }
+]

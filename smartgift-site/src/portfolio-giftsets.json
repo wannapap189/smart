@@ -1,0 +1,118 @@
+[
+  {
+    "id": "paragon-mug-umbrella",
+    "sku": "TZX02-2",
+    "brand": "SIAM PARAGON",
+    "title": "ชุดแก้วมัคและร่ม พร้อมกล่องของขวัญ",
+    "image": "/assets/industry-mockups/paragon-mug-umbrella-v1.png",
+    "url": "/smartgift/premium-giftset/set/tzx02-2",
+    "groups": [
+      "retail",
+      "companies",
+      "beauty",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "scg-cup-fan",
+    "sku": "TMZ5312",
+    "brand": "SCG",
+    "title": "ชุดแก้วชาพร้อมพัดลมพกพา",
+    "image": "/assets/industry-mockups/scg-cup-fan-v1.png",
+    "url": "/smartgift/premium-giftset/set/tmz5312",
+    "groups": [
+      "companies",
+      "energy",
+      "property",
+      "public"
+    ]
+  },
+  {
+    "id": "toyota-drinkware-set",
+    "sku": "TZM50-2",
+    "brand": "TOYOTA",
+    "title": "ชุดแก้วทัมเบลอร์และแก้วมัค",
+    "image": "/assets/industry-mockups/toyota-drinkware-set-v1.png",
+    "url": "/smartgift/premium-giftset/set/tzm50-2",
+    "groups": [
+      "companies",
+      "automotive",
+      "sports",
+      "logistics"
+    ]
+  },
+  {
+    "id": "sixsenses-coffee-set",
+    "sku": "TKF0195",
+    "brand": "SIX SENSES",
+    "title": "ชุดชงกาแฟโมคาพอตและเครื่องบดมือหมุน",
+    "image": "/assets/industry-mockups/sixsenses-coffee-set-v1.png",
+    "url": "/smartgift/premium-giftset/set/tkf0195",
+    "groups": [
+      "companies",
+      "food",
+      "hospitality",
+      "property"
+    ]
+  },
+  {
+    "id": "dhl-travel-giftset",
+    "sku": "MXF71-4",
+    "brand": "DHL",
+    "title": "ชุดเดินทาง ร่ม แก้วมัค ปากกา และแฟ้มใส่ตั๋ว",
+    "image": "/assets/industry-mockups/dhl-travel-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/mxf71-4",
+    "groups": [
+      "companies",
+      "logistics",
+      "retail",
+      "automotive",
+      "hospitality"
+    ]
+  },
+  {
+    "id": "krungthai-nfc-giftset",
+    "sku": "TTB14-3",
+    "brand": "KRUNGTHAI",
+    "title": "ชุดสมุด NFC กระบอกน้ำไทเทเนียม และปากกา",
+    "image": "/assets/industry-mockups/krungthai-nfc-giftset-v1.png",
+    "url": "/smartgift/premium-giftset/set/ttb14-3",
+    "groups": [
+      "companies",
+      "banks",
+      "technology",
+      "universities",
+      "public"
+    ]
+  },
+  {
+    "id": "nike-sports-giftset",
+    "sku": "TYD0038",
+    "brand": "NIKE",
+    "title": "ชุดกีฬาและกิจกรรมกลางแจ้ง",
+    "image": "/assets/owned-giftsets/image1140.jpeg",
+    "url": "/smartgift/premium-giftset/set/tyd0038",
+    "groups": [
+      "companies",
+      "sports",
+      "hospitals",
+      "beauty",
+      "entertainment"
+    ]
+  },
+  {
+    "id": "google-cooling-giftset",
+    "sku": "TYD0017",
+    "brand": "GOOGLE",
+    "title": "ชุดกีฬาและคลายร้อน",
+    "image": "/assets/owned-giftsets/image1141.jpeg",
+    "url": "/smartgift/premium-giftset/set/tyd0017",
+    "groups": [
+      "companies",
+      "sports",
+      "technology",
+      "universities",
+      "entertainment"
+    ]
+  }
+]

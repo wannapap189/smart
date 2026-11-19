@@ -1,0 +1,9 @@
+import {usb3dProjects} from './usb-3d-portfolio.mjs';
+import {portfolioImage} from './portfolio-image.mjs';
+// Historical work from the user's USBThailand portfolio. This is not a current stock list.
+export const historicalProjects=[
+ ...usb3dProjects,
+ {id:'siemens-usb',brand:'SIEMENS',title:'แฟลชไดร์ฟยางหยอด ขึ้นรูปตามแบบ',image:'siemens-usb.jpg',description:'งานขึ้นรูปและจัดสีตามเอกลักษณ์ของแบรนด์ แสดงแนวทางพัฒนาตัวสินค้าที่ต่างจากรูปทรงสำเร็จรูป',source:'https://www.usbthailand.com/our-portfolio/707.htm'},
+ {id:'hospital-usb',brand:'โรงพยาบาลกรุงเทพ',title:'แฟลชไดร์ฟการ์ด พิมพ์ลายองค์กร',image:'usb-hospital-clean-v1.png',description:'ตัวอย่างงานพิมพ์กราฟิกและโลโก้บนแฟลชไดร์ฟแบบการ์ด จากผลงานสำหรับกลุ่มโรงพยาบาลกรุงเทพ',source:'https://www.usbthailand.com/our-portfolio/714.htm'}
+];
+export function historicalPortfolio(){return `<section class="section container" aria-labelledby="historical-projects-title"><div class="section-head"><div><span class="eyebrow">ประสบการณ์ที่ต่อยอดมาถึงวันนี้</span><h2 id="historical-projects-title">ผลงานแฟลชไดร์ฟจาก USBThailand</h2><p>อีกเว็บไซต์ในธุรกิจของเรา ที่ดูแลงานแฟลชไดร์ฟเฉพาะแบรนด์</p><p class="source-note">ภาพจากผลงานในอดีต บางภาพปรับความชัดและลบลายน้ำด้วย AI ใช้แสดงประสบการณ์ด้านงานผลิต รุ่นและรายละเอียดสำหรับการสั่งใหม่ต้องยืนยันกับทีม</p></div></div><div class="project-home-grid">${historicalProjects.map(p=>`<article class="project-example"><div class="historical-project-photo">${portfolioImage({src:"/assets/project-portfolio/"+p.image,caption:p.alt || ("ผลงาน "+p.title+" "+p.brand+" จาก USBThailand"),keywords:[p.title,p.brand,"แฟลชไดร์ฟสั่งผลิต"]})}</div><div class="project-example-copy"><span class="eyebrow">${p.brand}</span><h3>${p.title}</h3><p>${p.description}</p><a class="text-link" href="${p.source}" target="_blank" rel="noopener">ดูผลงานต้นฉบับบน USBThailand ↗</a></div></article>`).join('')}</div></section>`;}

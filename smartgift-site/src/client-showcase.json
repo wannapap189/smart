@@ -1,0 +1,295 @@
+[
+  {
+    "name": "ธนาคารกสิกรไทย",
+    "file": "logo-KASIKORN-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "banks"
+  },
+  {
+    "name": "ธนาคารกรุงไทย",
+    "file": "logo-KRUNGTHAI-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "banks"
+  },
+  {
+    "name": "สยามพารากอน",
+    "file": "Siam-paragon.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "retail"
+  },
+  {
+    "name": "ปตท.",
+    "file": "logo-PTT-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "energy"
+    ]
+  },
+  {
+    "name": "เอสซีจี",
+    "file": "logo-SCG-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "property"
+    ]
+  },
+  {
+    "name": "ทรู",
+    "file": "logo-TRUE-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "การไฟฟ้าส่วนภูมิภาค",
+    "file": "logo-PEA-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "public"
+  },
+  {
+    "name": "โตโยต้า",
+    "file": "logo-TOYOTA-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "automotive"
+    ]
+  },
+  {
+    "name": "ฮอนด้า",
+    "file": "logo-honda-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "automotive"
+    ]
+  },
+  {
+    "name": "มาสด้า",
+    "file": "logo-MAZDA-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "automotive"
+    ]
+  },
+  {
+    "name": "เนสท์เล่",
+    "file": "logo-Nestle-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "food"
+    ]
+  },
+  {
+    "name": "ลอรีอัล ประเทศไทย",
+    "file": "logo-LOREAL-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "beauty"
+    ]
+  },
+  {
+    "name": "เลอโนโว",
+    "file": "Lenovo-300x100.jpg",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "พานาโซนิค",
+    "file": "logo-PANASONIC-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "ยูนิเซฟ",
+    "file": "logo-UNICEF-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "public"
+  },
+  {
+    "name": "จอห์นสัน แอนด์ จอห์นสัน",
+    "file": "logo-johnsonjohnson-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies"
+  },
+  {
+    "name": "แลนด์โรเวอร์",
+    "file": "logo-LANDROVER-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "automotive"
+    ]
+  },
+  {
+    "name": "คูโบต้า",
+    "file": "logo-kubota-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "automotive"
+    ]
+  },
+  {
+    "name": "ชาร์ป",
+    "file": "logo-SHARP-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "โตชิบา",
+    "file": "logo-TOSHIBA-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "ไพโอเนียร์",
+    "file": "logo-PIONEER-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "ทิมเบอร์แลนด์",
+    "file": "logo-TIMBERLAND-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "sports"
+    ]
+  },
+  {
+    "name": "เทเลนอร์",
+    "file": "logo-telenor-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "เทรนด์ไมโคร",
+    "file": "logo-TREND-MICRO-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "ทีโอที",
+    "file": "logo-TOT-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "public",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "name": "ซีเอส ล็อกซอินโฟ",
+    "file": "logo-CS-LOXINFO-min.png",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "industry": "companies",
+    "additionalIndustries": [
+      "technology"
+    ]
+  },
+  {
+    "file": "phyathai.png",
+    "name": "โรงพยาบาลพญาไท",
+    "industry": "hospitals",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "originalFile": "logo-รพ.พญาไท-min.png"
+  },
+  {
+    "file": "logo-KMUTT-min.png",
+    "name": "คณะวิศวกรรมศาสตร์ มจธ.",
+    "industry": "universities",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18"
+  },
+  {
+    "file": "logo-SRIPATOM-min.png",
+    "name": "หลักสูตร MPA มหาวิทยาลัยศรีปทุม",
+    "industry": "universities",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18"
+  },
+  {
+    "file": "ministry-public-health.png",
+    "name": "กระทรวงสาธารณสุข",
+    "industry": "public",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Original customer logo section headed ส่วนหนึ่งของลูกค้า ที่ใช้บริการของเรา; recovered original image; visually verified 2026-11-18",
+    "originalFile": "logo-กระทรวงสาธารณสุข-min.png"
+  },
+  {
+    "name": "Six Senses Resorts & Spas",
+    "file": "Sixsense.jpeg",
+    "industry": "hospitality",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Recovered original customer logo from SmartGift historical portfolio; visually inspected 2026-11-18"
+  },
+  {
+    "name": "แสนสิริ",
+    "file": "logo-SANSIRI-min.png",
+    "industry": "property",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Recovered original customer logo from SmartGift historical portfolio; visually inspected 2026-11-18"
+  },
+  {
+    "name": "DHL",
+    "file": "logo-DHL-min.png",
+    "industry": "logistics",
+    "sourcePage": "https://web.archive.org/web/20230530144400/https://smartgiftthailand.com/portfolio/",
+    "evidence": "Recovered original customer logo from SmartGift historical portfolio; visually inspected 2026-11-18"
+  }
+]
